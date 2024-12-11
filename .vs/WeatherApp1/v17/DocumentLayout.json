@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|c:\\users\\kubas\\source\\repos\\weatherapp1\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B37E08-42D8-4736-9447-538DCFEA3771}|WeatherApp1.csproj|solutionrelative:models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WeatherPage.xaml",
+              "RelativeDocumentMoniker": "WeatherPage.xaml",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WeatherPage.xaml",
+              "RelativeToolTip": "WeatherPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T23:18:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:18:14.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WeatherPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WeatherPage.xaml.cs",
+              "RelativeToolTip": "WeatherPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:29:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\WelcomePage.xaml",
+              "RelativeToolTip": "WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T00:56:12.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiServices.cs",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\Services\\ApiServices.cs",
+              "RelativeDocumentMoniker": "Services\\ApiServices.cs",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\Services\\ApiServices.cs",
+              "RelativeToolTip": "Services\\ApiServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:24:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\Models\\Root.cs",
+              "RelativeDocumentMoniker": "Models\\Root.cs",
+              "ToolTip": "C:\\Users\\kubas\\source\\repos\\WeatherApp1\\Models\\Root.cs",
+              "RelativeToolTip": "Models\\Root.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:22:01.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
